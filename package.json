@@ -1,0 +1,22 @@
+{
+  "name": "gittuts1",
+  "version": "1.0.0",
+  "description": "Simple setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roystharayil/gittuts1.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "roystharayil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roystharayil/gittuts1/issues"
+  },
+  "homepage": "https://github.com/roystharayil/gittuts1#readme"
+}
