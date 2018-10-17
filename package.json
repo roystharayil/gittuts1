@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/roystharayil/gittuts1/issues"
   },
-  "homepage": "https://github.com/roystharayil/gittuts1#readme"
+  "homepage": "https://github.com/roystharayil/gittuts1#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
